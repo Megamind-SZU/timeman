@@ -9,7 +9,7 @@ click==6.7
 command-not-found==0.3
 cryptography==1.2.3
 defer==1.0.6
-Django==1.10.6
+Django==1.11.28
 django-cors-headers==2.0.2
 django-jsonview==0.5.0
 django-redis==4.7.0
